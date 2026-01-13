@@ -8,32 +8,14 @@
 
 I am a **Computer Science Student** at **UNAM** (Facultad de Ciencias) 🇲🇽, currently exploring the intersection between robust software engineering and creative development.
 
-I have a passion for building scalable solutions, whether it's low-level programming in **C**, object-oriented architecture in **Java**, or modern full-stack web applications. I believe in mixing logic with creativity, using tools like **DaVinci Resolve** and audio engineering alongside my code.
+I have a passion for building scalable solutions, whether it's low-level programming in **C**, object-oriented architecture in **Java**, or modern full-stack web applications.
 
 I'm an avid **Linux (Fedora)** user, an open-source enthusiast, and a problem-solver at heart. When I'm not coding, I'm likely editing multimedia content or learning about new web frameworks.
 
 Shape the future of tech together? 🌟
 
-<hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-
-<img align="right" height="250" width="375" alt="Coder" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with **Java, Spring & Next.js**.
-- 🚀 &nbsp; I’m currently exploring **Cloud Architecture & Multimedia Dev**.
-- 🐧 &nbsp; Daily Driver: **Fedora Linux**.
-- 👾 &nbsp; Fun fact: I can fix a segfault in C and color grade a video in the same afternoon.
-- 📫 &nbsp; Reach me out: **[Tu correo aquí]**.
-
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Coding efficiently with SOLID principles.
 - 🎨 &nbsp; Audio/Video Post-production.
 - ☕ &nbsp; Solving complex logic puzzles.
 
@@ -82,7 +64,7 @@ Shape the future of tech together? 🌟
   	    <li><b>OS:</b> Fedora Linux (Workstation)</li>
 	    <li><b>Terminal:</b> GNOME Terminal / Bash</li>
 	    <li><b>Code Editor:</b> VSCode & IntelliJ IDEA</li>
- 	    <li><b>Creative:</b> DaVinci Resolve & Adobe Audition</li>
+ 	    <li><b>Creative:</b> DaVinci Resolve & Pro Tools</li>
 	    <li><b>Tools:</b> Postman, Git, Notion</li>
 	</ul>
 </details>
