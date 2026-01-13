@@ -4,7 +4,7 @@
 
   <p>
     <b>CS Student at UNAM </b><br>
-    *"Knowledge that is not shared completely loses its value".<br>
+    "Knowledge that is not shared completely loses its value".<br>
   </p>
 
   <a href="https://linkedin.com/in/daniel-martínez-1a9210260" target="_blank">
