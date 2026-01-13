@@ -1,64 +1,96 @@
+## Hey there 👋, I'm [ZasshDev!](https://github.com/ZasshDev/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZasshDev&label=Profile%20views&color=0e75b6&style=flat" alt="ZasshDev" /> </p>
+
+I am a **Computer Science Student** at **UNAM** (Facultad de Ciencias) 🇲🇽, currently exploring the intersection between robust software engineering and creative development.
+
+I have a passion for building scalable solutions, whether it's low-level programming in **C**, object-oriented architecture in **Java**, or modern full-stack web applications. I believe in mixing logic with creativity, using tools like **DaVinci Resolve** and audio engineering alongside my code.
+
+I'm an avid **Linux (Fedora)** user, an open-source enthusiast, and a problem-solver at heart. When I'm not coding, I'm likely editing multimedia content or learning about new web frameworks.
+
+Shape the future of tech together? 🌟
+
+<hr>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+<img align="right" height="250" width="375" alt="Coder" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with **Java, Spring & Next.js**.
+- 🚀 &nbsp; I’m currently exploring **Cloud Architecture & Multimedia Dev**.
+- 🐧 &nbsp; Daily Driver: **Fedora Linux**.
+- 👾 &nbsp; Fun fact: I can fix a segfault in C and color grade a video in the same afternoon.
+- 📫 &nbsp; Reach me out: **[Tu correo aquí]**.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; Coding efficiently with SOLID principles.
+- 🎨 &nbsp; Audio/Video Post-production.
+- ☕ &nbsp; Solving complex logic puzzles.
+
+### Languages and Tools:
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"></code>
+
+<br/>
+
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind"></code>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="25" alt="Postgres" />
+<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white" height="25" alt="Supabase" />
+<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" height="25" alt="Strapi" />
+<img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=flat-square&logo=davinciresolve&logoColor=white" height="25" alt="DaVinci" />
+<img src="https://img.shields.io/badge/Adobe_Audition-9999FF?style=flat-square&logo=adobe%20audition&logoColor=white" height="25" alt="Audition" />
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZasshDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZasshDev&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZasshDev&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Fedora Linux (Workstation)</li>
+	    <li><b>Terminal:</b> GNOME Terminal / Bash</li>
+	    <li><b>Code Editor:</b> VSCode & IntelliJ IDEA</li>
+ 	    <li><b>Creative:</b> DaVinci Resolve & Adobe Audition</li>
+	    <li><b>Tools:</b> Postman, Git, Notion</li>
+	</ul>
+</details>
+
+#
+
 <div align="center">
-  
-  <h1>Hi there, I'm ZasshDev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-  <p>
-    <b>CS Student at UNAM </b><br>
-    "Knowledge that is not shared completely loses its value".<br>
-  </p>
+### Show some ❤️ by starring some of the repositories!
 
-  <a href="https://linkedin.com/in/daniel-martínez-1a9210260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zasshie02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-<hr />
-
-I like to make things. my tools:
-
-<div align="left">
-
-**Languages & Core:**<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<br><br>
-
-**Frontend & Web:**<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<br><br>
-
-**Backend & Database:**<br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
-<br><br>
-
-**Creative & Tools:**<br>
-<img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?style=flat-square&logo=adobe%20audition&logoColor=white" alt="Adobe Audition" />
-<img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-
-</div>
-
-<br />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZasshDev&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZasshDev&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
