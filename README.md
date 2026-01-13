@@ -3,8 +3,8 @@
   <h1>Hi there, I'm ZasshDev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
   <p>
-    <b>CS Student at UNAM 🇲🇽</b><br>
-    I'm always learning btw.<br>
+    <b>CS Student at UNAM </b><br>
+    *"Knowledge that is not shared completely loses its value".<br>
   </p>
 
   <a href="https://linkedin.com/in/daniel-martínez-1a9210260" target="_blank">
