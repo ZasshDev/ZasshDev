@@ -3,15 +3,14 @@
   <h1>Hi there, I'm ZasshDev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
   <p>
-    <b>CS Student @ UNAM 🇲🇽</b><br>
-    Building scalable software & learning new things.<br>
-    <i>"Code is poetry."</i>
+    <b>CS Student at UNAM 🇲🇽</b><br>
+    I'm always learning btw.<br>
   </p>
 
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/daniel-martínez-1a9210260" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU-CORREO@gmail.com">
+  <a href="mailto:zasshie02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
@@ -21,7 +20,7 @@
 
 ### 🚀 Tech Stack
 
-Me gusta mantener las cosas simples y eficientes. Estas son las herramientas que uso:
+I like to make things. my tools:
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
