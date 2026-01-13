@@ -68,11 +68,3 @@ Shape the future of tech together? 🌟
 	    <li><b>Tools:</b> Postman, Git, Notion</li>
 	</ul>
 </details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
